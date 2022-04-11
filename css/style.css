@@ -1,0 +1,80 @@
+@font-face {
+    font-family: impact;
+    src: url('../fonts/impact.woff');
+}
+
+#tornese{
+    background-image: url('../images/historia.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 400px;
+}
+
+#tornese .seja{
+    font-size: 40px;
+    color: white;
+    font-family: impact;
+}
+
+#tornese .historia{
+    font-size: 75px;
+    color: white;
+    font-family: impact;
+}
+
+#doacao{
+    background-color: rgb(128, 128, 0);
+}
+
+.background-transparente{
+    background-color:rgba(0, 0, 0, 0);
+}
+
+.borda-roxa{
+    border-color: #B616FA;
+}
+
+.texto-amarelo{
+    color:rgba(219, 219, 0, 0.822);
+}
+
+.texto-vermelho{
+    color: red;
+}
+
+.texto-verde{
+    color: #298C2A
+}
+
+.texto-azul{
+    color: #2098E3;
+}
+
+.texto-laranja{
+    color: #F05016;
+}
+
+.texto-roxo{
+    color: #B616FA;
+}
+
+.fonte-impact{
+    font-family: impact;    
+}
+
+.background-branco{
+    background-color: #ffffff;
+}
+
+.background-1{
+    background-color: #d85872
+}
+
+.background-2{
+    background-color: #d28090
+}
+
+.background-3{
+    background-color: #ec8aac
+}
